@@ -27,8 +27,5 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+There is no script responsibility for the loss of a character in the game, since the outcome depends on the game actions of the participants.
+To send a suggestion or report a bug on the Discord support server, follow the link: https://discord.gg/yHez7BFXyE . Your contribution will help improve the gameplay and create a better gaming experience for all players.
