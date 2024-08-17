@@ -17,6 +17,14 @@ currently being supported with security updates.
 | 0.0.8   | :x:                |
 | 0.0.9   | :white_check_mark: |
 
+## Supported OS
+
+|   OS    | Supported          |
+| ------- | ------------------ |
+| Windows | :white_check_mark: |
+| Linux   | :x:                |
+| Mac     | :x:                |
+
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
