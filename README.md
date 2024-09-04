@@ -3,24 +3,28 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%B1%D0%BE%D1%82%D0%B0-blue?logo=pinboard&logoColor=%235865F2&label=v0.1.1" alt="Script Version">
-   <img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-MIT-blue?label=License&labelColor=107%2C%20255%2C%20112&color=107%2C%20255%2C%20112" alt="License">
+      <a href="#">RU</a> | 
+      <a href="https://github.com/Vu4eke/STALCRAFT-Tools-EN">EN</a>
 </p>
 
-## О проекте
+## ℹ️ О проекте
 
 **STALCRAFT-Tools** - это инновационный хаб для скриптов, разработанный по образу и подобию скриптов от Hanslo. Объединяя в себе функциональность и простоту использования, Staltracker предлагает удобное пространство для хранения и запуска скриптов, обеспечивая пользователям надежные инструменты для автоматизации задач и повышения эффективности их работы.
 
-## Установка и настройка
+## ⚙️ Установка и настройка
 
-1. Запустите лоадер
-2. Введите ключ входа: sk-OpenKey
-3. Выберите скрипт
-4. Вставьте/напишите текст которые хотите спамить
-5. Откройте в течение 5-и секунд окно игры (ОБЯЗАТЕЛЬНО ОКНО, НЕ ПОЛНОЭКРАННЫЙ РЕЖИМ, хотя можно и п:э режиме)
-6. Просто встаньте, поешьте или попейте. (Чтобы остановить/продолжить нажмите на 'Caps Lock')
+1. Скачайте лоадер [с последних релизов](https://github.com/Vu4eke/STALCRAFT-Tools/releases)
+2. Запустите лоадер
+3. Ключ доступ: sk-OpenKey (Для входа в лоадер)
+4. Выберите желаный скрипт
+5. Сделано! Теперь вы пользуетесь **STALCRAFT-Tools**
 
+> [!CAUTION]
+> Будьте осторожны: использование автоматизации, читов и модов может привести к бану по правилу 4.1.1. Мы не можем гарантировать безопасность вашего аккаунта; всё зависит от ваших действий.
 
-## Лизенция
-
-Проект staltracker распространяется по лицензии MIT.
+<p align="center">
+  <a href="https://discord.gg/yHez7BFXyE">Сервер поддержки</a> | 
+  <a href="https://boosty.to/stalcraft-tools">Boosty</a> | 
+  <a href="https://t.me/vu4erk_billyng">Дневник Егора (TG)</a> | 
+  <a href="https://stalcraft.net/">Игра STALCRAFT</a>
+</p>
