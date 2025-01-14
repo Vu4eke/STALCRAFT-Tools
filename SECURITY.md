@@ -15,8 +15,17 @@ currently being supported with security updates.
 | 0.0.6   | :x:                |
 | 0.0.7   | :x:                |
 | 0.0.8   | :x:                |
-| 0.0.9   | :white_check_mark: |
-| 0.1.0   | :white_check_mark: |
+| 0.0.9   | :x:                |
+| 0.1.0   | :x:                |
+| 0.1.1   | :x:                |
+| 0.1.2   | :x:                |
+| 0.1.3   | :x:                |
+| 0.1.4   | :x:                |
+| 0.1.5   | :x:                |
+| 0.1.6   | :x:                |
+| 0.1.7   | :x:                |
+| 0.1.9   | :x:                |
+| 0.2.0   | :white_check_mark: |
 
 ## Supported OS
 
