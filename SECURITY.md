@@ -31,7 +31,7 @@ currently being supported with security updates.
 
 |   OS    | Supported          |
 | ------- | ------------------ |
-| Windows | :white_check_mark: |
+| Windows | :white_check_mark: [64] |
 | Linux   | :x:                |
 | Mac     | :x:                |
 
